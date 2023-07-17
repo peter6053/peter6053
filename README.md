@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @peter
-- 👀 I’m interested in transforming business with android
+- 👀 I’m interested in transforming business with android & flutter
 
 
 <!---
